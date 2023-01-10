@@ -149,11 +149,11 @@ animation-fill-mode: forwards;
     margin-bottom: 50px;
 }
 
-.right-about-heading, h2 {
+.right-about-heading h2 {
     text-align: right;
 }
 
-.right-about-heading, p {
+.right-about-heading p {
     text-align: right;
 }
 
